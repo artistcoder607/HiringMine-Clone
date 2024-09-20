@@ -1,0 +1,187 @@
+@media only screen and (min-width:150px) and (max-width:1050px) {
+
+    .list {
+        background-image: url(./pics/menu-icon-2.png);
+        height: 25px;
+        width: 35px;
+        background-size: cover;
+        z-index: 1;
+        /* width: 100vw; */
+        margin-left: 570px;
+    }
+
+    .list li {
+        margin-top: 80px;
+        color: white;
+        z-index: 0;
+    }
+
+
+}
+
+
+@media only screen and (min-width:150px) and (max-width:890px) {
+
+    .list {
+        margin-left: 510px;
+    }
+
+
+}
+
+
+@media only screen and (min-width:150px) and (max-width:840px) {
+
+    .list {
+        margin-left: 460px;
+    }
+
+
+}
+
+
+@media only screen and (min-width:150px) and (max-width:790px) {
+
+    .list {
+        margin-left: 410px;
+    }
+
+    .text-1 {
+        width: 600px;
+    font-size: 20px;
+    font-weight: 500;
+   }
+
+.btns {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto ;
+} 
+
+
+}
+
+@media only screen and (min-width:150px) and (max-width:740px) {
+
+    .list {
+        margin-left: 360px;
+    }
+
+
+}
+
+
+@media only screen and (min-width:150px) and (max-width:690px) {
+
+    .list {
+        margin-left: 310px;
+    }
+
+    .text-1 {
+        width: 540px;
+        font-size: 20px;
+    }
+
+}
+
+
+@media only screen and (min-width:150px) and (max-width:640px) {
+
+    .list {
+        margin-left: 260px;
+    }
+
+    .flex-2 {
+        width: 500px;
+    }
+
+
+}
+
+@media only screen and (min-width:150px) and (max-width:590px) {
+
+    .list {
+        margin-left: 210px;
+    }
+
+    .main-heading {
+        width: 400px;
+    }
+
+    .text-1 {
+        width: 500px;
+    }
+
+
+}
+
+
+@media only screen and (min-width:150px) and (max-width:540px) {
+
+    .list {
+        margin-left: 160px;
+    }
+
+    .text-1 {
+        width: 450px;
+    }
+
+    .flex-2 {
+        width: 400px;
+    }
+
+}
+
+
+@media only screen and (min-width:150px) and (max-width:490px) {
+
+    .list {
+        margin-left: 110px;
+    }
+
+    .text-1 {
+        width: 370px;
+    }
+
+
+
+
+}
+
+
+@media only screen and (min-width:150px) and (max-width:440px) {
+
+    .list {
+    margin-left: 60px; 
+    }
+
+    .main-heading {
+        width: 260px;
+    }
+    
+.flex-2 {
+    width: 300px;
+}
+
+    
+    }
+
+    @media only screen and (min-width:150px) and (max-width:410px) {
+
+        .text-1 {
+width: 280px;
+        }
+
+    }
+
+
+    @media only screen and (min-width:150px) and (max-width:390px) {
+
+        .list {
+        margin-left: 10px; 
+        }
+        
+        .main-heading {
+           font-size: 60px;
+        }
+
+        }
