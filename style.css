@@ -156,6 +156,8 @@ body {
     width: 800px;
     display: flex;
     justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
     display: grid;
     grid-template-columns: auto auto auto auto auto auto auto auto;
 }
@@ -254,7 +256,10 @@ body {
      display: flex; 
      justify-content: space-between; 
      margin-top: 90px;
+     display: grid;
+     grid-template-columns: auto auto auto auto;
 }
+
 
 /* .cards-container-1 div {
     height: 190px;
