@@ -454,6 +454,8 @@ box-shadow: 3px 3px 10px #bdbdc0;
     justify-content: space-evenly;
 align-items: center;
 margin-top: 70px;
+display: grid;
+grid-template-columns: auto auto auto auto;
 }
 
 .cards-container-8-2 {
@@ -462,6 +464,8 @@ margin-top: 70px;
     justify-content: space-evenly;
 align-items: center;
 margin-top: 20px;
+display: grid;
+grid-template-columns: auto auto auto auto;
 }
 
 .card-5,.card-6,.card-7,.card-8,.card-9,.card-10,.card-11,.card-12 {
