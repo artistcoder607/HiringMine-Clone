@@ -545,12 +545,18 @@ transition-timing-function: ease;
 
 /* Big Cards  */
 
+.big-job-container {
+    width: 1200px;
+}
+
 .job-details-container-1 {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     width: 100%;
     margin-top: 42px;
+    display: grid;
+    grid-template-columns: auto auto auto;
 }
 
 .job-details-container-2 {
@@ -559,6 +565,8 @@ transition-timing-function: ease;
     align-items: center;
     width: 100%;
     margin-top: 42px;
+    display: grid;
+    grid-template-columns: auto auto auto;
 }
 
 .card-13,.card-14,.card-15,.card-16,.card-17,.card-18 {
